@@ -2,11 +2,6 @@
 #include <stdlib.h>
 #include <unistd.h>
 #define BUFFER_SIZE 1024
-/**
- * main - Entry point
- *
- * Return: Always 0 (Success)
- */
 int main(void)
 {
 	char *buffer;
